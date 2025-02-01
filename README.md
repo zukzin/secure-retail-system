@@ -80,8 +80,8 @@ SecureRetailSystem/
 │   └── test_security.py
 
 │   ├── users.json         # Local user data (or users.jason.py placeholder)
-│   └── __init__.py
-└── 
+└── └── __init__.py
+ 
 
 # Getting Started
 
